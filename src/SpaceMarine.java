@@ -1,5 +1,5 @@
 
-public class SpaceMarine {
+public abstract class SpaceMarine {
 	
 	protected String name;
 	protected String world;
@@ -39,6 +39,6 @@ public class SpaceMarine {
 		this.defence = defence;
 	}
 	
-	
+	public abstract void adorarCaos () throws Exception;
 
 }
