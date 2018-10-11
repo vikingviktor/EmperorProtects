@@ -4,8 +4,8 @@ public abstract class SpaceMarine {
 	protected String name;
 	protected String world;
 	protected String squad;
-	private int attack;
-	private int defence;
+	protected int attack;
+	protected int defence;
 	
 	
 	public String getName() {
