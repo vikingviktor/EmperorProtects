@@ -3,13 +3,13 @@ public class BloodAngel extends SpaceMarine implements LightAttack, StrongAttack
 
 	@Override
 	public void strongAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("Surprise Ambush");
 		
 	}
 
 	@Override
 	public void lightAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("SawSword Attack");
 		
 	}
 

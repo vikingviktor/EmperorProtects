@@ -3,19 +3,19 @@ public class ThousandSon extends SpaceMarine implements LightAttack, StrongAttac
 
 	@Override
 	public void strongAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("Psiquic Attack");
 		
 	}
 
 	@Override
 	public void lightAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("Light Psiquic Attack");
 		
 	}
 
 	@Override
-	public void adorarCaos() throws Exception {
-		// TODO Auto-generated method stub
+	public void adorarCaos() {
+		System.out.println("Tzeenech give me power");
 		
 	}
 

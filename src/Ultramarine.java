@@ -3,13 +3,13 @@ public class Ultramarine extends SpaceMarine implements LightAttack, StrongAttac
 
 	@Override
 	public void strongAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("PowerSword Attack");
 		
 	}
 
 	@Override
 	public void lightAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("Fire Bolter");
 		
 	}
 

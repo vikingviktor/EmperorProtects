@@ -3,13 +3,13 @@ public class SpaceWolf extends SpaceMarine implements LightAttack, StrongAttack{
 
 	@Override
 	public void strongAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("Wulfen Power Attack");
 		
 	}
 
 	@Override
 	public void lightAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("Bolter Fire");
 		
 	}
 

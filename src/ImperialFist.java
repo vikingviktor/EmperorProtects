@@ -3,13 +3,13 @@ public class ImperialFist extends SpaceMarine implements LightAttack, StrongAtta
 
 	@Override
 	public void strongAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("Flamethrower Attack");
 		
 	}
 
 	@Override
 	public void lightAttack() {
-		// TODO Auto-generated method stub
+		System.out.println("Bolter Fire");
 		
 	}
 
